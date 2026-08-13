@@ -4,17 +4,24 @@ Welcome to my Professional Portfolio. Iam an ICT and Aspiration Dta Analytics pr
 ## About Me
 Iam passionate about using technology and data to solve problems,support decisions -making and improve efficiency
 ## Skills
-Microsoft Excel
-Power BI
-SQL
-Data Anyltsis 
-Microsoft Office 
-Generative AI
-Computer and ICT Support
-##Projects
-### 1.Sale perfomance Dashboard
+- Microsoft Excel
+
+- Power BI
+
+- SQL
+
+- Data Anyltsis 
+
+- Microsoft Office 
+
+- Generative AI
+
+- Computer and ICT Support
+
+## Projects
+### Sales perfomance Dashboard
 A data analytics focused on anaylyzingsales perfomance and presenting insights using Dashbooards
-### 2.Power BI Dashboard
+### Power BI Dashboard
 An interactive Dashboard designed to support decision-making  through KPIs, Charts and data visualization.
 ### Training & Certificates
 - AI ELEVATE Training
