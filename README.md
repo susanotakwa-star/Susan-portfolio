@@ -1,6 +1,6 @@
-#Susan Otakwa
+# Susan Otakwa
 ## ICT & Data Analytics Portfolio
-Welcome to my Professional Portfolio. Iam an ICT and Aspiration Dta Analytics professional with skills and Microsoft Excel , Power BI, SQL, data anylysis and techonology
+Welcome to my Professional Portfolio. Iam an ICT and Aspiration Data Analytics professional with skills and Microsoft Excel, Power BI, SQL, data anylysis and techonology
 ## About Me
 Iam passionate about using technology and data to solve problems,support decisions -making and improve efficiency
 ## Skills
