@@ -1,6 +1,6 @@
 # Sales Performance Dashboard  
 ## Project overview 
-This [project analyses sale data to understand business performance and identify trends.
+This project analyses sale data to understand business performance and identify trends.
 ## Objectives
 - Analyse total sales and revenue
 -  Identify top-performing products
